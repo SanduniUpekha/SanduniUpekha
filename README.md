@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h3> 
 
 -  :girl: An undergraduate student pursuing a BSc in Management Information Systems at NSBM Green University. 
--  I am incredibly passionate about the dynamic IT industry and all of its potential. I enjoy learning about different facets of this field, from web development and programming to designing, UI/UX, project management, and analysis. 
+-  :girl: I am incredibly passionate about the dynamic IT industry and all of its potential. I enjoy learning about different facets of this field, from web development and programming to designing, UI/UX, project management, and analysis. 
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - My Java skill
 - My Python Skill
 
- ### 📫 How to reach me: sanduniupekhasurb715@gmail.com
+ ### 📫 How to reach me: sandunisurb715@gmail.com
 
  <!--### 😄 Pronouns: She/Her
 
