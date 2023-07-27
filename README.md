@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![LinkedIn: @sanduniupekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
 
 <hr>
-<img align="right" src="https://i.pinimg.com/originals/61/21/37/612137ce6cd52fb9a990be6315aa65a9.gif" width="500" height="350" alt="girl coding img" >
+<img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="350" alt="girl coding img" >
 
  ### 🌱 I’m currently learning ...
 
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
-[Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
