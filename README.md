@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![LinkedIn: @sanduniupekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
 
 <hr>
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="350" alt="girl coding img" >
+<img align="right" src="https://i.pinimg.com/originals/61/21/37/612137ce6cd52fb9a990be6315aa65a9.gif" width="500" height="350" alt="girl coding img" >
 
  ### 🌱 I’m currently learning ...
 
