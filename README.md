@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<h2 align="center">Hello, I'm Sanduni Upekha<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"></h2><br>
+<h2 align="center">Hello, I'm Sanduni Upekha<img align="center" src="https://i.pinimg.com/originals/61/21/37/612137ce6cd52fb9a990be6315aa65a9.gif" width="65" height="65" alt="gif"></h2><br>
 
 </h3> 
 
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>-->
 
 
-<!--![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python) -->
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
