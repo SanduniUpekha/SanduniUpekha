@@ -56,14 +56,14 @@ Here are some ideas to get you started:
 - My Java skill
 - My Python Skill
 
+<hr>
  ### 📫 How to reach me: sanduniupekhasurb715@gmail.com
 
  <!--### 😄 Pronouns: She/Her
 
-[![@sanduniupekha's Holopin board](https://holopin.me/sanduniupekha)](https://holopin.io/@sanduniupekha)
+[![@sanduniupekha's Holopin board](https://holopin.me/sanduniupekha)](https://holopin.io/@sanduniupekha)-->
 
 <hr>
--->
 <h3 align="left">Languages and Tools:</h3>
 
 <!--<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -111,27 +111,24 @@ Here are some ideas to get you started:
 <!--<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>-->
 
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)<br>
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
-
+[Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
-
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
-<!--![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) 
+<!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)-->
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  -->
