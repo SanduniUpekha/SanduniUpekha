@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 - My Java skill
 - My Python Skill
 
-<hr>
  ### 📫 How to reach me: sanduniupekhasurb715@gmail.com
 
  <!--### 😄 Pronouns: She/Her
