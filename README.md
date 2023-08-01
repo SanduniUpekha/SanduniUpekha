@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <hr>
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="350" alt="girl coding img" >
 
- ### 👩‍💻 I’m currently learning ...
+ ### 📚 I’m currently learning ...
 
 - Html
 - Css
@@ -55,17 +55,17 @@ Here are some ideas to get you started:
 - Java skill
 - Python Skill
 
-### 👯 I’m looking to collaborate on ..
-
-- various projects to improve my coding skills!
-
-### 🏗️ I’m currently working on ...
+### 💻 I’m currently working on ...
 
 - My Current Projects
 - My Personal Development
 - Skill Develiopment
 
-### 📫 How to reach me: sandunisurb715@gmail.com
+### 👯 I’m looking to collaborate on ..
+
+- Various Projects to improve my coding skills!
+
+### 📧 How to reach me: sandunisurb715@gmail.com
 
  <!--### 😄 Pronouns: She/Her
 
@@ -147,11 +147,11 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniupekha&layout=compact)
-<img height="142" src="https://github-readme-stats.vercel.app/api?username=sanduniupekha&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniUpekha&layout=compact)
+<img height="142" src="https://github-readme-stats.vercel.app/api?username=SanduniUpekha&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
 
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanduniupekha&" alt="sanduniupekha"><p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanduniUpekha&" alt="SanduniUpekha"><p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanduniupekha" alt="sanduniupekha" /></a> </p> 
 
