@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<h2 align="center">Hello,I'm Sanduni Upekha.. <img align="center" src="https://thumbs.gfycat.com/FrightenedSecretArkshell-size_restricted.gif" width="65" height="65" alt="gif"></h2><br>
+<h2 align="center">Hello,I'm Sanduni Upekha.. <img align="center" src="https://media.tenor.com/K8slKgV85mUAAAAC/cute-girl-waving-her-hand.gif" width="65" height="65" alt="gif"></h2><br>
 
 </h3> 
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - My Python Skill
 
  ### 📫 How to reach me: sandunisurb715@gmail.com
-
+<img align="center" src="https://thumbs.gfycat.com/FrightenedSecretArkshell-size_restricted.gif" width="65" height="65" alt="gif">
  <!--### 😄 Pronouns: She/Her
 
 [![@sanduniupekha's Holopin board](https://holopin.me/sanduniupekha)](https://holopin.io/@sanduniupekha)-->
