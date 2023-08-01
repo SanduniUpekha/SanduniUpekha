@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 
  ### 📫 How to reach me: sandunisurb715@gmail.com
 
-
  <!--### 😄 Pronouns: She/Her
 
 [![@sanduniupekha's Holopin board](https://holopin.me/sanduniupekha)](https://holopin.io/@sanduniupekha)-->
