@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<h2 align="center">Hello,</h2><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVkeHJmdjgwbm50NTBremthYTBxazBnNjlmMm1vbW9xNmV6OGxxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c1CLe6VoaMviQz0s6z/giphy.gif" width="65" height="65" alt="gif"><h2> I'm Sanduni Upekha</h2><br>
+<h2 align="center">Hello,I'm Sanduni Upekha.. <img align="center" src="https://thumbs.gfycat.com/FrightenedSecretArkshell-size_restricted.gif" width="65" height="65" alt="gif"></h2><br>
 
 </h3> 
 
