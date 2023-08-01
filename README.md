@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniupekha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniupekha&size_weight=0.5&count_weight=0.5&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanduniupekha&show_icons=true&count_private=true&hide=issues&include_all_commits=true)
 
 
