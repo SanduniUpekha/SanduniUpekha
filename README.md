@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<h2 align="center">Hello, I'm Sanduni Upekha<img align="center" src="https://i.pinimg.com/originals/61/21/37/612137ce6cd52fb9a990be6315aa65a9.gif" width="65" height="65" alt="gif"></h2><br>
+<h2 align="center">Hello,</h2><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVkeHJmdjgwbm50NTBremthYTBxazBnNjlmMm1vbW9xNmV6OGxxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c1CLe6VoaMviQz0s6z/giphy.gif" width="65" height="65" alt="gif"><h2> I'm Sanduni Upekha</h2><br>
 
 </h3> 
 
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 <img height="142" src="https://github-readme-stats.vercel.app/api?username=sanduniupekha&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
 
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanduniupekha&" alt="sanduniupekha" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanduniupekha&" alt="sanduniupekha"><p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanduniupekha" alt="sanduniupekha" /></a> </p> 
 
