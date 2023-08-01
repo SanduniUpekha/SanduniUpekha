@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanduniUpekha&" alt="SanduniUpekha"><p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanduniupekha" alt="sanduniupekha" /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanduniupekha&margin-w=15" alt="sanduniupekha" /></a> </p> 
 
 
 <hr>
