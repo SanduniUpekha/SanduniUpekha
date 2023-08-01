@@ -148,7 +148,8 @@ Here are some ideas to get you started:
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniupekha&layout=compact)
-<img height="142" src="https://github-readme-stats.vercel.app/api?username=sanduniupekha&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanduniupekha&show_icons=true&count_private=true&hide=issues&include_all_commits=true)
+
 
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanduniUpekha&" alt="SanduniUpekha"><p>
