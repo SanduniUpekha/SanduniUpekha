@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn: @sanduniupekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
+[![LinkedIn: @SanduniUpekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
 
 <hr>
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="350" alt="girl coding img" >
 
- ### 🌱 I’m currently learning ...
+ ### 👩‍💻 I’m currently learning ...
 
 - Html
 - Css
@@ -47,16 +47,25 @@ Here are some ideas to get you started:
 - Python
 - Java Script
 
- ### 🔭 I’m currently working on ...
+ ### 📈 I’m currently improving my ...
 
-- My Projects
-- My HTML skill
-- My CSS skill
-- My Java Script skill
-- My Java skill
-- My Python Skill
+- HTML skill
+- CSS skill
+- Java Script skill
+- Java skill
+- Python Skill
 
- ### 📫 How to reach me: sandunisurb715@gmail.com
+### 👯 I’m looking to collaborate on ..
+
+- various projects to improve my coding skills!
+
+### 🏗️ I’m currently working on ...
+
+- My Current Projects
+- My Personal Development
+- Skill Develiopment
+
+### 📫 How to reach me: sandunisurb715@gmail.com
 
  <!--### 😄 Pronouns: She/Her
 
