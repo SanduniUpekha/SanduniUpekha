@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![GitHub: @sanduniupekha](https://img.shields.io/github/followers/sanduniupekha?color=green&logo=github&style=flat-square)](https://github.com/sanduniupekha)
+[![GitHub: @SanduniUpekha](https://img.shields.io/github/followers/sanduniupekha?color=green&logo=github&style=flat-square)](https://github.com/sanduniupekha)
 ![](https://komarev.com/ghpvc/?username=sanduniupekha&style=flat-square&color=brightgreen)
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn: @SanduniUpekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
+[![LinkedIn: @Sanduni Upekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
 
 <hr>
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="350" alt="girl coding img" >
@@ -134,6 +134,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
@@ -142,8 +143,7 @@ Here are some ideas to get you started:
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
-<!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
--->
+
 <br>
 <hr>
 
