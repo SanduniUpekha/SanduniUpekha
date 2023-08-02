@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn: @Sanduni Upekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
+[![LinkedIn: @SanduniUpekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
 
 <hr>
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="350" alt="girl coding img" >
