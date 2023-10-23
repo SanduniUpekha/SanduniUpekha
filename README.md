@@ -123,17 +123,17 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)<br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Eclipse](https://img.shields.io/badge/-ECLIPSE-black?style=flat-square&logo=eclipse)
-<img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+<img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
