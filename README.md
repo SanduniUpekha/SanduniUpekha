@@ -112,6 +112,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
 <!--<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
@@ -135,6 +138,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Playwright](https://img.shields.io/badge/-Playwright-00FFFF?style=flat-square&logo=playwright)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
