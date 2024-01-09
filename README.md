@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![GitHub: @sanduniupekha](https://img.shields.io/github/followers/sanduniupekha?color=green&logo=github&style=flat-square)](https://github.com/sanduniupekha)
-![](https://komarev.com/ghpvc/?username=sanduniupekha&style=flat-square&color=brightgreen)
+[![GitHub: @sanduniupekha](https://img.shields.io/github/followers/sanduniupekha?color=blue&label=Followers&logo=github&style=for-the-badge)](https://github.com/sanduniupekha)
+![Profile Views](https://komarev.com/ghpvc/?username=sanduniupekha&style=for-the-badge&color=blue)
+
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn: @sanduniupekha](https://img.shields.io/badge/-sanduniupekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
+[![LinkedIn: @sanduniupekha](https://img.shields.io/badge/LinkedIn-sanduniupekha-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanduni-upekha-b69759247)](https://www.linkedin.com/in/sanduni-upekha-b69759247)
 
 <hr>
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="350" alt="girl coding img" >
@@ -98,7 +99,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -112,9 +116,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
 <!--<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
@@ -125,6 +126,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)<br>
@@ -139,7 +141,6 @@ Here are some ideas to get you started:
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Playwright](https://img.shields.io/badge/-Playwright-00FFFF?style=flat-square&logo=playwright)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
