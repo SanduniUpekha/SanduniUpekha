@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 </h3> 
 
--  :girl: An undergraduate student pursuing a BSc in Management Information Systems at NSBM Green University. 
--  :girl: I am incredibly passionate about the dynamic IT industry and all of its potential. I enjoy learning about different facets of this field, from web development and programming to Quality assurance, project management, and analysis. 
+-  :girl: Software Quality Assurance Engineer with 2+ years of experience in the industry and a graduate from NSBM University with a first class honours degree. 
+-  :girl: I am incredibly passionate about the dynamic IT industry and all of its potential. I enjoy learning about different facets of this field, from development and programming to Quality assurance, project management, and analysis. 
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 
  ### 📚 I’m currently learning ...
 
-- Html
-- Css
+- Html, Css
 - Java
 - MySql 
 - PHP
@@ -50,11 +49,9 @@ Here are some ideas to get you started:
 
  ### 📈 I’m currently improving my ...
 
-- HTML skill
-- CSS skill
-- Java Script skill
-- Java skill
-- Python Skill
+- Programming Skills
+- Automation Testing Skills (Selenium, TestNG, PlayWright)
+- Manual Testing Skills
 
 ### 💻 I’m currently working on ...
 
@@ -64,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on ..
 
-- Various Projects to improve my coding skills!
+- Various Projects to improve my coding and testing skills!
 
 ### 📧 How to reach me: sandunisurb715@gmail.com
 
